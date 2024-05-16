@@ -1,0 +1,13 @@
+echo "# Tic-Tac-Toe-JavaScript" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sudhanshu25012002/Tic-Tac-Toe-JavaScript.git
+git push -u origin main
+
+
+
+git remote add origin https://github.com/sudhanshu25012002/Tic-Tac-Toe-JavaScript.git
+git branch -M main
+git push -u origin main
